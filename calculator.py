@@ -19,3 +19,4 @@ try:
     print("i am very happy as a programmer as someone is finding this shit useful")
 except:
     print("you have entered the input in a wrong way")
+    #this is my first project in python 
