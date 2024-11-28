@@ -1,0 +1,3 @@
+print("From today you have not to think that what i should keep as a password and is my password strong as passge in there infront of you")
+name = str(input("enter a one word detail of the place where you are going to use the password for ex instagram if you are going to make a new website"))
+hard = int(input("enter 1 if you want a easy pass such as for phon ehoem lock or 2 for mediocre lock and 3 for best locks"))
